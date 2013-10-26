@@ -1,6 +1,6 @@
 body {
   background-color: #efefef;
-  background-image: url('/img/bg-main.png');
+  background-image: url('/_site/img/bg-main.png');
 }
 
 div#wrapper {
@@ -14,7 +14,7 @@ a img {
 }
 
 div.card {
-  background: url('/img/orestes.jpg') -400px -300px no-repeat;
+  background: url('/_site/img/orestes.jpg') -400px -300px no-repeat;
   float: right;
   right: -50%;
   position: relative;
@@ -84,7 +84,7 @@ div.twitter div.title a:hover {
 div.card div.twitter  {
   color: white;
   background-color: #09c;
-  background-image: url('/img/clouds.jpg');
+  background-image: url('/_site/img/clouds.jpg');
   background-position: 0px 0px;
 }
 
@@ -94,7 +94,7 @@ div.card div.twitter  div.content {
   padding: 0.6em;
   border-radius: 5px;
   border: 1px solid #efefef;
-  background-image: url('/img/twitter-bg.png');
+  background-image: url('/_site/img/twitter-bg.png');
 }
 
 div.card div.top div.left {
