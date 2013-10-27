@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('orestes.github.ioApp', [
+angular.module('orestes.io.app', [
   'ngCookies',
   'ngResource',
   'ngSanitize'

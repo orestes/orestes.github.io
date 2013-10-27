@@ -1,9 +1,12 @@
 'use strict';
 
-angular.module('orestes.github.ioApp')
+angular.module('orestes.io.app')
   .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
+    $scope.technologies = [
+      'php',
+      'bower',
+      'ant',
+      'grunt',
       'AngularJS',
       'Karma'
     ];
